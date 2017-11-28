@@ -1,0 +1,4 @@
+식량작물 food crops
+채소 vegetable
+특용작물 special crop
+과실 fruit
